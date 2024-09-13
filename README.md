@@ -1,0 +1,1 @@
+# Regresi-n-lineal-entre-la-relaci-n-entre-horas-de-irrigaci-n-y-rendimiento-de-cultivo
